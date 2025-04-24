@@ -44,3 +44,19 @@ npm install
 
 3. Run the dev server
 npm run dev
+
+---
+
+## 🔒 License & Usage
+
+This project is currently **not licensed for commercial redistribution or resale**.
+
+You are welcome to:
+
+- ✅ View and clone the code for **personal or educational use**
+- ✅ Use it as a learning resource or UI inspiration
+
+However, **commercial use, resale, or redistribution** of this project **is not allowed without permission**.
+
+📩 For business inquiries, licensing, or resale rights, please contact:  
+**Dhairya Ganatra** – [greyscriptdhairya@gmail.com](mailto:greyscriptdhairya@gmail.com)
