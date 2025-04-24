@@ -207,7 +207,7 @@ const LoanCalculator = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Calendar className="h-4 w-4 text-gray-500 dark:text-gray-400" />
-                <span className="text-sm text-gray-500 dark:text-gray-400">01/12/2023</span>
+                <span className="text-sm text-gray-500 dark:text-gray-400">01/01/2025</span>
               </div>
             </div>
             <div className="flex items-center space-x-4">
